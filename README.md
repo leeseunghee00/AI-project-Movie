@@ -12,7 +12,7 @@
 ### 3. 데이터 출처
 |사이트|사용한 데이터|주소|
 |---|---|---|
-|KOBIS||2004 ~ 2020년 영화목록|https://www.kobis.or.kr/kobis/business/main/main.do|
+|KOBIS|2004 ~ 2020년 영화목록|https://www.kobis.or.kr/kobis/business/main/main.do|
 |NAVER Movie|각 영화당 평점 크롤링|https://movie.naver.com/|
 |NAVER News|영화 개봉 일주일 전 기사수 크롤링|https://news.naver.com/|
 
